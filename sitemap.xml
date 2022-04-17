@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hiroebina.com/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hiroebina.com/posts/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hiroebina.com/starting-a-new-postdoc/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hiroebina.com/about/</loc>
   </url><url>
     <loc>https://hiroebina.com/categories/</loc>
@@ -9,8 +18,6 @@
     <loc>https://hiroebina.com/contact/</loc>
   </url><url>
     <loc>https://hiroebina.com/cv/</loc>
-  </url><url>
-    <loc>https://hiroebina.com/</loc>
   </url><url>
     <loc>https://hiroebina.com/tags/</loc>
   </url>
